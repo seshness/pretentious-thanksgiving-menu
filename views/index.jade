@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  h1= title
+  .nux
+    p And what would your lordship like for the&nbsp;
+      a.entree(href='#') entrée
+      ?
+  .dining-table
+    p.serving-dish
+      | spiced tea bath with fresh cilantro A traditional Indian soup featuring chicken cubes with herbs and spices spring roll carefully wrapped in
+    .response
+      ol
+        li.positive This is quite splendid.
+          | You know, for some value of&nbsp;
+          a.accept(href='#') splendid
+          .
+        li.negative Oh good lord I can't eat that!&nbsp;
+          br
+          a.reject(href='#') Can I at least get a cookie out of it?

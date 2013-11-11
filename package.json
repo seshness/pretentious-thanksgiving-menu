@@ -1,0 +1,32 @@
+{
+  "name": "pretentious-thanksgiving-menu",
+  "version": "0.0.1",
+  "description": "A generator of culinary titles teeming with pretension",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "generator",
+    "markov",
+    "chain",
+    "markov",
+    "programming",
+    "pearls",
+    "thanksgiving",
+    "food",
+    "menus"
+  ],
+  "author": "Seshadri Mahalingam <github.com/seshness>",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "1.5.2",
+    "express": "3.4.4",
+    "jade": "*",
+    "less-middleware": "*",
+    "uglify-js": "*"
+  },
+  "engines": {
+    "node": "0.10.20"
+  }
+}

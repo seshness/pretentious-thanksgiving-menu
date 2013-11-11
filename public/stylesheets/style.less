@@ -1,0 +1,74 @@
+@import url(http://fonts.googleapis.com/css?family=Stalemate);
+
+.rounded-corners (@radius: 5px) {
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  -ms-border-radius: @radius;
+  -o-border-radius: @radius;
+  border-radius: @radius;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+div, ol, li {
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.dining-table {
+  display: none;
+
+  .serving-dish {
+    background-color: #fcf3bd;
+    text-align: center;
+    padding: 10px 14px;
+    font-style: italic;
+    font-family: 'Stalemate', cursive;
+    font-size: 48px;
+    line-spacing: 1.2;
+
+    .rounded-corners(10px);
+  }
+
+  .response {
+    ol {
+      margin: 0 15px;
+      li {
+        display: inline-block;
+        width: 250px;
+        padding: 10px 15px;
+        margin: auto;
+        text-align: center;
+
+        .rounded-corners(10px);
+
+        & + li {
+          margin-left: 10px;
+        }
+
+        &.positive {
+          background-color: #d5f0d6;
+        }
+        &.negative {
+          background-color: #f0d5ef;
+        }
+      }
+    }
+  }
+}
+
+a {
+  color: #00B7FF;
+}
