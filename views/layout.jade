@@ -3,7 +3,12 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+    // http://codepo8.github.io/css-fork-on-github-ribbon/
+    style
+      #fork-on-github a{background:#050;color:#fff;text-decoration:none;font-family:arial, sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#fork-on-github a:hover{background:#070;color:#fff;}#fork-on-github a::before,#fork-on-github a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#fff;}#fork-on-github a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#fork-on-github{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;}#fork-on-github a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);box-shadow:2px 2px 3px rgba(0,0,0,0.2);}}
   body
+    span#fork-on-github
+      a(href="https://github.com/seshness/pretentious-thanksgiving-menu") Fork me on GitHub
     .container
       block content
     script(type='text/javascript', src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js')
