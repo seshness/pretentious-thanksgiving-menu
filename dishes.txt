@@ -211,3 +211,44 @@ Naan stuffed with fresh, homemade Indian cheese and baked in a tandoor
 Chunks of fresh fish marinated with garlic, lemon juice and spiced to perfection. Served with dal or vegetable curry.
 Fresh, homemade Indian cheese marinated in yogurt and freshly ground spices served with dal or vegetable curry.
 Tandoori Shrimp, tandoori chicken tikka, chicken tandoori and botti kebab served with dal or vegetable curry and choice of breads.
+
+// http://www.garydanko.com/site/menu.html
+Glazed Oysters with Osetra Caviar, Zucchini Pearls and Lettuce Cream
+Seared Ahi Tuna with Avocado, Nori, Enoki Mushrooms and Lemon Soy Dressing
+Risotto with Lobster, Gulf Shrimp, Shimeji Mushrooms, Corn and Roasted Tomatoes
+Corn and Arugula Salad with Niçoise Olives, Parmigiano-Reggiano and Red Pepper-Tomato Vinaigrette
+Lobster Salad with Avocado, Baby Artichokes, Roasted Tomatoes, Shaved Fennel and Mustard-Tarragon Vinaigrette
+Dungeness Crab Salad with Melons, Cucumbers, Roasted Eggplant and Thai Mango Dressing
+Sweet Corn Soup with Dungeness Crab, Crème Fraîche, Bacon and a Chive Biscuit
+Veal Sweetbreads with Chanterelle Mushrooms, Corn, Fava Beans and Red Onion
+Crispy Farm Egg with Grits, Royal Trumpet Mushrooms, Frisée and Pancetta
+Savory Tart with Autumn Vegetables and Herb Ricotta Mousse
+
+Soft Shell Crab with White Polenta, Pickled Ginger, Sesame and Lime
+Horseradish Crusted Salmon Medallion with Dilled Cucumbers and Mustard Sauce
+Seared Sea Scallops with Onion Soubise, Melted Leeks and King Trumpet Mushrooms
+Coriander, Black Pepper and Rosemary Crusted Tuna with Spinach, Piperade and Anchovy-Garlic Essence
+Pan Seared Bass with Arugula Pesto, Herbed Gnocchi, Tomato Confit, Preserved Meyer Lemon and Pinenuts
+Coconut Thai Curry with Shrimp, Calamari, Lobster, Scallops, Scallions and Shiitake Mushrooms
+Roast Maine Lobster with Potato Purée, Chanterelle Mushrooms, Corn and Tarragon
+Branzini with Fennel Purée, Niçoise Olives and Saffron-Orange Emulsion
+Herb Crusted Loin of Lamb with Autumn Vegetable Tian and Polenta
+Moroccan Spiced Squab with Raisins, Almonds, Chermoula and Orange-Cumin Carrots
+Lemon Pepper Duck Breast with Duck Hash, Bacon Braised Endive and Port Glazed Figs
+Hazelnut Crusted Pork Tenderloin with Braised Cheeks, Shimeji Mushrooms, Kale and Fava Beans
+Pan Roasted Quail Stuffed with Cornbread and Pancetta with Maitake Mushrooms and Smoked Ham Hocks
+Seared Filet of Beef with Cumin Potatoes, Swiss Chard, Tomato-Corn Relish and Basil Butter
+Guinea Hen Breast with Spanish Potatoes, Chorizo, Zucchini-Pepper Relish and Cilantro
+Roast Loin of Bison with King Trumpet Mushrooms, Cipollini Onions and Herb Spätzle
+
+A Selection of Farmhouse and Artisanal Cheeses Presented Tableside
+
+Seasonal Sorbet Sampler with Cookies
+Trio of Crème Brûlée with Assorted Cookies
+Strawberry Soufflé with Strawberry Sauce and Strawberry Sorbet
+Crème Fraîche Cheesecake with Berries, Spiced Pecans and Strawberry Ice Cream
+Warm Louisiana Butter Cake with Peaches, Huckleberry Compote and Vanilla Bean Ice Cream
+Chocolate Praline Parfait with Bourbon Sauce and Salted Caramel Ice Cream
+French Macaron Ice Cream Sandwiches with Three Sauces
+Baked Chocolate Soufflé with Two Sauces
+Flambéed Peaches with Mascarpone Filled Crèpes, Graham Cracker-Pecan Streusel and Vanilla Ice Cream
